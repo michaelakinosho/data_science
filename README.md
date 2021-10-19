@@ -1,2 +1,2 @@
 # data_science
-Repo housing all of data science related activities
+Repo housing my data science related activities
