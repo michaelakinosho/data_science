@@ -6,4 +6,4 @@ Decision Tree Regression was selected over linear regression as it offer a bette
 Plan to continuously update package as needed or as data structure changes or data dictionary evolves.
 
 <h1>Key Files</h1>
-<p><a href="/Machine Learning Sales Prediction Model">Machine Learning Sales Prediction Colab Notebook</p>
+<p><a href="/Machine Learning Sales Prediction Model.ipynb">Machine Learning Sales Prediction Colab Notebook</p>
