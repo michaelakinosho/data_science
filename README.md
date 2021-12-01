@@ -10,6 +10,6 @@
 <p><img src="/RMSE_RegressionModels.svg" alt="RMSE Visual" width="min-content" height="min-content">Notice how close the RMSE for Train and Test are very close</p>
 
 <h1>Key Files</h1>
-<p><a href="/Machine Learning Sales Prediction Model.ipynb">Machine Learning Sales Prediction Colab Notebook</p>
+<p>Machine Learning Sales Prediction Colab Notebook<a href="/Machine Learning Sales Prediction Model.ipynb"></p>
 <p><a href="/Presentation Slides Sales Prediction Model.gslides">Presentation of Slides using Google Slides</p>
 <p><a href="/Video Recording Sales Prediction Model.mp4">Video Recording of Presentation</p>
