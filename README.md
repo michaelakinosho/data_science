@@ -13,7 +13,7 @@
 
 <div>
   <p>Video of Presentation</p>
-    <a href="/Video Recording Sales Prediction Model.mp4" title="Video Presentation"><img src="/RMSE_RegressionModels.svg" alt="Alternate Text" /></a>
+    <a href="https://drive.google.com/file/d/1KiJuQnCGvahkoLjq5hEmOGH5vNt3HaXi/view?usp=sharing" title="Video Presentation"><img src="/RMSE_RegressionModels.svg" alt="Alternate Text" /></a>
 </div>
   
 <h1>Key Files</h1>
