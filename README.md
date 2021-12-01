@@ -6,10 +6,10 @@
 <p>Plan to continuously update package as needed or as data structure changes or data dictionary evolves.</p>
 
 <h1>Cool Visuals Created for Slides</h1>
-<p style="background-color:green;">Showing Decision Tree Regression is a better fit.</p>
+<p style="color:green;"><span style="color:green">Showing Decision Tree Regression is a better fit.</span></p>
 <p><img src="/R2_Score_RegressionModel.svg" alt="R2 Score Visual" width="min-content" height="min-content"></p>
 <p style="color:green;">Notice how close the RMSE for Train and Test are very close</p>
-<p><img src="/RMSE_RegressionModels.svg" alt="RMSE Visual" width="min-content" height="min-content">Notice how close the RMSE for Train and Test are very close</p>
+<p><img src="/RMSE_RegressionModels.svg" alt="RMSE Visual" width="min-content" height="min-content"></p>
 
 <h1>Key Files</h1>
 <p><a href="/Machine Learning Sales Prediction Model.ipynb">Machine Learning Sales Prediction Colab Notebook</p>
