@@ -8,4 +8,4 @@ Plan to continuously update package as needed or as data structure changes or da
 <h1>Key Files</h1>
 <p><a href="/Machine Learning Sales Prediction Model.ipynb">Machine Learning Sales Prediction Colab Notebook</p>
 <p><a href="/Presentation Slides Sales Prediction Model.gslides">Presentation of Slides using Google Slides</p>
-<p><a href="/Machine Learning Sales Prediction Model.ipynb">Video Recording of Presentation</p>
+<p><a href="/Video Recording Sales Prediction Model.mp4">Video Recording of Presentation</p>
