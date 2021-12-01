@@ -1,4 +1,4 @@
-<h1>Background and Intro to Repo</h1>
+<h1>Sales Prediction Machine Learning Project</h1>
 <p>Using Data Science principles and implementing Machine Learning techniques will attempt to predict the sales revenue of items across multiple outlet locations established in different years and different outlet location sizes.</p>
 <p>Report on the model selected for predicting sales revenue implemented.</p>
 <p>Model selected is Decision Tree Regression with depth level set to learn from which depth level is optimal.</p>
