@@ -6,7 +6,7 @@
 <p>Plan to continuously update package as needed or as data structure changes or data dictionary evolves.</p>
 
 <h1>Cool Visuals Created for Slides</h1>
-<p><img src="/" alt="R2 Score Visual" width="500" height="600"></p>
+<p><img src="/R2_Score_RegressionModel.svg" alt="R2 Score Visual" width="500" height="600"></p>
 
 <h1>Key Files</h1>
 <p><a href="/Machine Learning Sales Prediction Model.ipynb">Machine Learning Sales Prediction Colab Notebook</p>
