@@ -12,9 +12,10 @@
 <p><img src="/RMSE_RegressionModels.svg" alt="RMSE Visual" width="min-content" height="min-content"></p>
 
 <div>
-<video width="auto-fit" height="auto-fit" controls>
-  <source src="/Video Recording Sales Prediction Model.mp4" type="video/mp4" alt="video presentation">
-</video>
+  <p>Video of Presentation</p>
+  <video width="320" height="240" controls>
+    <source src="/Video Recording Sales Prediction Model.mp4" type="video/mp4" alt="video presentation">
+  </video>
 </div>
   
 <h1>Key Files</h1>
