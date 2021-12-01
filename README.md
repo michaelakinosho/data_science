@@ -13,7 +13,7 @@
 
 <div>
 <video width="auto-fit" height="auto-fit" controls>
-  <source src="movie.mp4" type="video/mp4" alt="video presentation">
+  <source src="/Video Recording Sales Prediction Model.mp4" type="video/mp4" alt="video presentation">
 </video>
 </div>
   
