@@ -7,15 +7,13 @@
 
 <h1>Cool Visuals Created for Slides</h1>
 <p style="color:`#00ff00`;">Showing Decision Tree Regression is a better fit.</p>
-<p><img src="/R2_Score_RegressionModel.svg" alt="R2 Score Visual" width="min-content" height="min-content"></p>
+<p><img src="/R2_Score_RegressionModel.svg" alt="R2 Score Visual" width="min-content" height="min-content"/></p>
 <p style="color:green;">Notice how close the RMSE for Train and Test are very close</p>
-<p><img src="/RMSE_RegressionModels.svg" alt="RMSE Visual" width="min-content" height="min-content"></p>
+<p><img src="/RMSE_RegressionModels.svg" alt="RMSE Visual" width="min-content" height="min-content"/></p>
 
 <div>
   <p>Video of Presentation</p>
-  <video width="320" height="240" controls>
-    <source src="/Video Recording Sales Prediction Model.mp4" type="video/mp4">
-  </video>
+    <a href="/Video Recording Sales Prediction Model.mp4" title="Video Presentation"><img src="/RMSE_RegressionModels.svg" alt="Alternate Text" /></a>
 </div>
   
 <h1>Key Files</h1>
