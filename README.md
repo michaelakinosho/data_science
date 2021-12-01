@@ -14,7 +14,7 @@
 <div>
   <p>Video of Presentation</p>
   <video width="320" height="240" controls>
-    <source src="/Video Recording Sales Prediction Model.mp4" type="video/mp4" alt="video presentation">
+    <source src="/Video Recording Sales Prediction Model.mp4" type="video/mp4">
   </video>
 </div>
   
